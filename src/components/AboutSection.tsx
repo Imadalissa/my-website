@@ -87,7 +87,7 @@ export const AboutSection = () => {
               ))}
             </div>
 
-            <div className="mt-8 p-6 bg-gradient-primary rounded-lg text-primary-foreground">
+            <div className="mt-8 p-6 bg-gradient-primary rounded-lg text-bkack">
               <h4 className="text-lg font-semibold mb-2">Currently Learning</h4>
               <p>
                 Completed intensive Full Stack Web Development training at SE Factory, 
