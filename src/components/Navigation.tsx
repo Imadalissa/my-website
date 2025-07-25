@@ -55,7 +55,7 @@ export const Navigation = ({ toggleTheme, isDark }: NavigationProps) => {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
-            <span className="text-xl font-bold text-gradient">Imad Al Issa</span>
+            <span className="text-xl font-bold text-gradient">Eng-Imad Al Issa</span>
           </div>
 
           {/* Desktop Navigation */}
